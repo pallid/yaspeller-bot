@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
+    <name>yaspeller</name>
+    <version>0.0.6</version>
+    <author>pallid</author>
+    <author-email>1005220@mail.ru</author-email>
+    <engine-version>1.0.19</engine-version>
+    <depends-on name="json"/>
+</opm-metadata>
